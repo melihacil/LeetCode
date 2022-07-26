@@ -4,4 +4,5 @@ Solved Questions --
 1- 2Sum -easy   (With brute force and hash map also tried two pointer method but did not work)  
 2- Add two numbers - medium (Two attemps for it one of them is not accepted because of no limiting of numbers)
 15- 3Sum -medium (With brute force and two pointer solution)  
+28 - Implement strStr() - easy (Checks the string and compares)
 226- Binary tree inversion -easy (Binary tree inversion using a structure similar to postorder traversal)
