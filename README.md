@@ -5,5 +5,5 @@ Solved Questions --
 2- Add two numbers - medium (Two attemps for it one of them is not accepted because of no limiting of numbers)
 15- 3Sum -medium (With brute force and two pointer solution)  
 26- Remove Duplicates - easy (Two pointer and a loop solution)  
-28 - Implement strStr() - easy (Checks the string and compares)
+28 - Implement strStr() - easy (Checks the string and compares)  
 226- Binary tree inversion -easy (Binary tree inversion using a structure similar to postorder traversal)
